@@ -24,7 +24,7 @@
         <footer>
             &copy; <span id="copyyear"></span> | Marissa A. Gimbel | Henderson | Nevada |  <a class="school"
                 href="https://www.byui.edu/online">BYU-Idaho Online student Learning</a><br>
-            LastUpdated:2019<updated<<updated/> <span id="lastUpdate"></span>
+            LastUpdated:2020<updated<<updated/> <span id="lastUpdate"></span>
         </footer>
         <script src="js/updated.js"></script>
         <script src="js/year.js"></script>
